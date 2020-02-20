@@ -18,6 +18,8 @@ into Alfred's search box, or using the system-wide shortcut &lt;Ctrl-!&gt;
 
 ![lobsters](screenshots/lobsters.gif)
 
+![github code](screenshots/github_code.gif)
+
 ![bill hicks](screenshots/bill_hicks.gif)
 
 

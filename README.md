@@ -24,3 +24,5 @@ into Alfred's search box, or using the system-wide shortcut &lt;Ctrl-!&gt;
 ## License
 
 MIT
+
+DuckDuckGo name and logo are trademarks of Duck Duck Go, Inc.

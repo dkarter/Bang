@@ -1,4 +1,4 @@
-# Bang - Alfred Workflow
+![BANG LOGO](bang_logo.svg)
 
 A DuckDuckGo !bang auto-completion.
 
@@ -19,3 +19,8 @@ into Alfred's search box, or using the system-wide shortcut &lt;Ctrl-!&gt;
 ![lobsters](screenshots/lobsters.gif)
 
 ![bill hicks](screenshots/bill_hicks.gif)
+
+
+## License
+
+MIT
